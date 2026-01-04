@@ -211,7 +211,7 @@ You can add:
 ---
 
 ## 👨‍💻 Developer
-**Itranul Hoda**
+**Irfanul Hoda**
 - MERN Stack Developer  
 
 
